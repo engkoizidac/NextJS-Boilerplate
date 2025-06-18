@@ -1,6 +1,6 @@
 # NextJS-Boilerplate
-A NextJS Project Template ready for production.
-
+A NextJS Starter Web Project ready for production. It has the complete role based user management and JWT authentication
+.
 ##
 Tools:
 NextJS15,
